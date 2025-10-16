@@ -1,3 +1,9 @@
+# CI/CD workflow tests
+
+Implemented a workflow to run pytests once code is pushed with the name being the commit message
+
+- Daniel Allen
+
 # pytest-example
 pytest - Python Testing Example
 
